@@ -29,4 +29,5 @@ Here're some of the project's best features:
 
 
 
-* Live Demo : <A href = "https://dance-academyy.netlify.app/" > https://dance-academyy.netlify.app/ </a>
+<!--* Live Demo : <A href = "https://dance-academyy.netlify.app/" > https://dance-academyy.netlify.app/ </a>
+-->
